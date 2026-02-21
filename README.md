@@ -71,10 +71,9 @@
 </picture>
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kirangowda0715&show_icons=true&count_private=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirangowda0715" />
-
-<a href="https://github.com/kirangowda0715">
-  <img src="https://raw.githubusercontent.com/Kirangowda0715/Kirangowda0715/output/pacman-contribution-graph.svg" />
-</a>
+</p>
