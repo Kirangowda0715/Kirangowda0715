@@ -37,9 +37,10 @@ I enjoy building practical projects that solve real problems and documenting my 
 </p>
 
 <p align="center">
-  🔗 <a href="https://leetcode.com/kirangowda0715/">LeetCode Profile</a>
+  <a href="https://leetcode.com/kirangowda0715/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
 </p>
-
 ---
 
 <h3 align="center">🧠 Tech Stack</h3>
