@@ -16,8 +16,8 @@ I enjoy building practical projects that solve real problems and documenting my 
 </p>
 
 <p align="center">
-🔹 Currently working on <b>AI-powered Financial Intelligence Engine</b>  
-🔹 Building <b>Stoic Ride</b> – a full-stack bike rental system  
+🔹 AI-powered <b>Financial Intelligence Engine</b>  
+🔹 Building <b>Stoic Ride</b> (Full-stack bike rental system)  
 🔹 Learning <b>Data Analysis (Python)</b> & advanced visualization  
 🔹 Practicing <b>DSA & problem solving</b> consistently  
 </p>
@@ -41,20 +41,22 @@ I enjoy building practical projects that solve real problems and documenting my 
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
+
 ---
 
 <h3 align="center">🧠 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,git,mysql,mongodb" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 <p align="center">
-<b>Also working with:</b> Pandas • Scikit-learn • Seaborn • MATLAB • Data Visualization
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux" />
+</p>
+
+<p align="center">
+<b>Also working with:</b><br>
+Pandas • Scikit-learn • Seaborn • MATLAB • Data Visualization
 </p>
 
 ---
@@ -62,15 +64,15 @@ I enjoy building practical projects that solve real problems and documenting my 
 <h3 align="center">📌 Featured Work</h3>
 
 <p align="center">
-🔹 <b>Financial Intelligence Engine</b>  
-AI system to analyze financial data & interact with documents (PDF Q&A)
+🔹 <b>Financial Intelligence Engine</b><br>
+AI system for financial data analysis & PDF-based Q&A<br><br>
 
-🔹 <b>Stoic Ride</b>  
-Full-stack bike rental platform with admin & user management  
-Tech: PHP, MySQL, XAMPP
+🔹 <b>Stoic Ride</b><br>
+Full-stack bike rental platform (Admin + User system)<br>
+Tech: PHP, MySQL, XAMPP<br><br>
 
-🔹 <b>DSA + Notes System</b>  
-Structured problem solving with GitHub + Notion documentation
+🔹 <b>DSA + Notes System</b><br>
+Structured problem solving with GitHub + Notion
 </p>
 
 ---
@@ -105,9 +107,9 @@ Structured problem solving with GitHub + Notion documentation
 <h3 align="center">🎯 Current Focus</h3>
 
 <p align="center">
-✔ Becoming industry-ready in <b>Data Analysis & AI</b>  
-✔ Building real-world projects instead of just tutorials  
-✔ Improving problem solving & system design thinking  
+✔ Data Analysis & AI (Industry-ready skills)<br>
+✔ Building real-world projects<br>
+✔ Improving problem solving & system design
 </p>
 
 ---
@@ -115,5 +117,5 @@ Structured problem solving with GitHub + Notion documentation
 <h3 align="center">💡 Philosophy</h3>
 
 <p align="center">
-"Perfection Is End Point Of Evolution"
+"Perfection is the end point of evolution."
 </p>
