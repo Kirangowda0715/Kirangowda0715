@@ -32,7 +32,7 @@ I enjoy building practical projects that solve real problems and documenting my 
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/kirangowda0715/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
   </a>
 </p>
 
