@@ -114,5 +114,5 @@ Structured problem solving with GitHub + Notion documentation
 <h3 align="center">💡 Philosophy</h3>
 
 <p align="center">
-"Learn deeply. Build consistently. Document everything."
+"Perfection Is End Point Of Evolution"
 </p>
