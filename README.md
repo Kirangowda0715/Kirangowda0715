@@ -117,5 +117,5 @@ Structured problem solving with GitHub + Notion
 <h3 align="center">💡 Philosophy</h3>
 
 <p align="center">
-"Perfection is the end point of evolution."
+<b><b>"Perfection is the end point of evolution."
 </p>
