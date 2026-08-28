@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Gowda</h1>
-<h3 align="center">Computer Science Student | AI/ML Enthusiast | Building Real-World Systems</h3>
+<h3 align="center">Computer Science Student | Software Development | Data Science & AI/ML</h3>
 
 <p align="center">
   📍 India &nbsp; | &nbsp;
@@ -11,15 +11,14 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-I’m a Computer Science student focused on <b>AI/ML, Data Analysis, and Backend Systems</b>.  
-I enjoy building practical projects that solve real problems and documenting my learning through structured notes.
+I’m a Computer Science student who enjoys building practical software systems and exploring how data and machine learning can solve real-world problems.
 </p>
 
 <p align="center">
-🔹 AI-powered <b>Financial Intelligence Engine</b>  
-🔹 Building <b>Stoic Ride</b> (Full-stack bike rental system)  
-🔹 Learning <b>Data Analysis (Python)</b> & advanced visualization  
-🔹 Practicing <b>DSA & problem solving</b> consistently  
+🔹 Building <b>Financial Intelligence Engine</b> — AI-powered financial document analysis & RAG<br>
+🔹 Building <b>StockMind</b> — stock market pattern mining & relationship discovery<br>
+🔹 Strengthening <b>Data Analysis & Machine Learning</b> with Python<br>
+🔹 Practicing <b>DSA & problem solving</b> consistently
 </p>
 
 ---
@@ -47,16 +46,17 @@ I enjoy building practical projects that solve real problems and documenting my 
 <h3 align="center">🧠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,git,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,php,html,css,git,mysql,mongodb,linux" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux" />
+<b>Data Science & ML</b><br>
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • EDA • Machine Learning
 </p>
 
 <p align="center">
-<b>Also working with:</b><br>
-Pandas • Scikit-learn • Seaborn • MATLAB • Data Visualization
+<b>Project Experience</b><br>
+FastAPI • REST APIs • React • SQLAlchemy • SQLite • ChromaDB • SentenceTransformers
 </p>
 
 ---
@@ -65,14 +65,15 @@ Pandas • Scikit-learn • Seaborn • MATLAB • Data Visualization
 
 <p align="center">
 🔹 <b>Financial Intelligence Engine</b><br>
-AI system for financial data analysis & PDF-based Q&A<br><br>
+AI-powered financial document analysis platform using PDF processing, semantic retrieval, vector search and LLM-based Q&A.<br>
+<i>Python • FastAPI • Streamlit • SentenceTransformers • ChromaDB • Ollama</i><br><br>
 
-🔹 <b>Stoic Ride</b><br>
-Full-stack bike rental platform (Admin + User system)<br>
-Tech: PHP, MySQL, XAMPP<br><br>
+🔹 <b>StockMind — Stock Market Pattern Mining System</b><br>
+Financial analytics system that discovers relationships between stocks using growth and market patterns rather than only traditional industry-based grouping.<br>
+<i>Python • FastAPI • React • Pandas • Scikit-learn • Apriori • K-Means • Isolation Forest</i><br><br>
 
-🔹 <b>DSA + Notes System</b><br>
-Structured problem solving with GitHub + Notion
+🔹 <b>DSA & Problem Solving</b><br>
+Consistent practice focused on developing strong problem-solving fundamentals and maintaining structured learning notes.
 </p>
 
 ---
@@ -83,10 +84,6 @@ Structured problem solving with GitHub + Notion
   <img src="https://github-readme-stats.vercel.app/api?username=kirangowda0715&show_icons=true&count_private=true" height="170"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirangowda0715" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirangowda0715&layout=compact" height="150"/>
 </p>
 
 ---
@@ -107,9 +104,10 @@ Structured problem solving with GitHub + Notion
 <h3 align="center">🎯 Current Focus</h3>
 
 <p align="center">
-✔ Data Analysis & AI (Industry-ready skills)<br>
-✔ Building real-world projects<br>
-✔ Improving problem solving & system design
+✔ Strengthening DSA & problem solving<br>
+✔ Improving Data Analysis & Machine Learning skills<br>
+✔ Building practical software projects<br>
+✔ Learning backend development with Java & Spring Boot
 </p>
 
 ---
@@ -117,5 +115,5 @@ Structured problem solving with GitHub + Notion
 <h3 align="center">💡 Philosophy</h3>
 
 <p align="center">
-<b><b>"Perfection is the end point of evolution."
+<b>"Perfection is the end point of evolution."</b>
 </p>
